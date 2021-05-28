@@ -16,3 +16,11 @@ It maintains the information of the  edges that are active for a particular scan
 screenshots
 
 ![image](https://user-images.githubusercontent.com/69346963/119970801-cdfc5880-bfcd-11eb-8226-66ae3f60dc16.png)
+
+![image](https://user-images.githubusercontent.com/69346963/119970885-e8cecd00-bfcd-11eb-8f1b-7ced138ba68b.png)
+
+![image](https://user-images.githubusercontent.com/69346963/119970905-ed938100-bfcd-11eb-8c25-1b54d7f4486d.png)
+
+![image](https://user-images.githubusercontent.com/69346963/119970918-f2583500-bfcd-11eb-96c1-cd7a9596b9e8.png)
+
+![image](https://user-images.githubusercontent.com/69346963/119970927-f5ebbc00-bfcd-11eb-85bb-20ff5ec87e59.png)
