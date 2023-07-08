@@ -1,4 +1,4 @@
-# computer_graphics_miniproject
+# Computer Graphics Mini Project
 A mini project based on working of scanline line polygon filling algorithm using global edge table and active edge table
 
 This project is aimed at developing an OpenGL application that represents the Global edge table and Active Edge table  for scan-line algorithm used for filling a given polygon  .
